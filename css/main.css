@@ -1,0 +1,179 @@
+
+
+body {
+  margin: 0px;
+}
+
+#pan1 {
+  background-color: #1b1e25;
+  height: 200px;
+  color: white;
+  margin: 0px;
+}
+
+#pan1 img {
+  display: block;
+  margin-left: auto;
+  margin-right: 10px;
+  height: 72px;
+}
+
+#pan2 {
+  background-color: #1b1e25;
+  height: 500px;
+  color: white;
+  margin: 0px;
+}
+
+#pan2 img {
+  display: block;
+  vertical-align: bottom;
+  height: 202px;
+  margin: auto;
+  }
+
+#pan3 {
+    background-color: #feffff;
+    height: 100px;
+    color: #feffff;
+    margin: 0px;
+  }
+
+#pan3 img {
+    display: block;
+    vertical-align: bottom;
+    height: 42px;
+    margin: auto;
+    }
+
+#pan4 {
+    background-color: #feffff;
+    height: 500px;
+    padding: 40px;
+    }
+
+
+#pan4 img {
+    float: right;
+    height: 420px;
+    width: 35%;
+    margin: 0 100 0 0;
+      }
+
+#text {
+  float: left;
+  width: 30%;
+  align-items: center;
+  font-style: oblique;
+  font-size: 1.5em;
+  margin-left: 100px;
+    }
+
+#pan6 {
+  background-color: #fafafa;
+  height: 100px;
+  color: #fafafa;
+  margin: 0px;
+    }
+
+#pan6 img {
+  display: block;
+  vertical-align: bottom;
+  height: 42px;
+  margin: auto;
+      }
+
+#pan7 {
+  background-color: #fafafa;
+  height: 500px;
+  padding: 40px;
+      }
+
+#pan7 img {
+  float: left;
+  height: 420px;
+  width: 35%;
+  margin: 0 100 0 0;
+      }
+
+#pan8 {
+  background-color: #1b1e25;
+  height: 100px;
+  color: #1b1e25;
+  margin: 0px;
+      }
+
+#pan8 img {
+  display: block;
+  vertical-align: bottom;
+  height: 42px;
+  margin: auto;
+      }
+
+#pan9 {
+  background-color: #1b1e25;
+  height: 500px;
+  padding: 40px;
+      }
+
+#pan9 img {
+  display: block;
+  margin-left: auto;
+  margin-right: 250px;
+  height: 400px;
+            }
+
+#pan10 {
+  background-color: #2abbae;
+  height: 100px;
+  color: #2abbae;
+  margin: 0px;
+            }
+
+#pan10 img {
+  display: block;
+  vertical-align: bottom;
+  height: 42px;
+  margin: auto;
+        }
+
+#pan11 {
+  background-color: #2abbae;
+  height: 500px;
+  color: #2abbae;
+  margin: 0px;
+            }
+
+#pan11 img {
+  height: 391px;
+  margin: auto;
+  padding-left: 150px;
+          }
+
+#pan12 {
+  background-color: #1b1e25;
+  height: 100px;
+  color: #1b1e25;
+  margin: 0px;
+                }
+
+#pan12 img {
+  display: block;
+  vertical-align: bottom;
+  height: 42px;
+  margin: auto;
+              }
+
+#pan13 {
+  background-color: #1b1e25;
+  height: 700px;
+  color: #1b1e25;
+  margin: 0px;
+            }
+
+#pan13 img {
+  display: block;
+  margin-left: auto;
+  margin-right: 150px;
+  height: 563px
+            }
